@@ -1,9 +1,9 @@
 # Git-and-Github
 GIt and Github
 <br>
-Used Break tag
+Used Break tag "<br>"
 <br>
 Name : Sayandeep Pramanik
 <br>
 
-Save changes - COMMIt
+Save changes - COMMIT
